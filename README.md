@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOwMAE_4oIfw7LB1tf-OIzOwhiDg75IUKlv0bCBcZvQ&s=10" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=4000&pause=500&color=3b82f6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=150&lines=Hello+World;I'm+a+Full+Stack+Developer+%26+Tech+Enthusiast+💻" width="70%" />
+<img src="https://github.com/juanvaz25/juanvaz25/blob/main/assets/github-header-banner.png" width="70%" />
 <br><br>
 <pre>
     👨🏻‍💻 Full Stack Developer • C# .NET & React

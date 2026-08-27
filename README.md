@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://via.placeholder.com/300x400/1e293b/60a5fa?text=Tu+Foto" width="25%" align="right" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOwMAE_4oIfw7LB1tf-OIzOwhiDg75IUKlv0bCBcZvQ&s=10" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=4000&pause=500&color=3b82f6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=150&lines=Hello+World;I'm+a+Full+Stack+Developer+%26+Tech+Enthusiast+💻" width="70%" />
 <br><br>
 <pre>
@@ -59,14 +59,14 @@ Me encanta aprender nuevas tecnologías para integrar a mis proyectos y trabajar
 
 ## 🎯 Mis Proyectos
 
-### 📱 [Awesome Project](https://github.com/juanvaz25/UTN_Unity)
+### 🎮 [HexagonGame](https://github.com/juanvaz25/UTN_Unity)
 Videojuego desarrollado en Unity. Tecnologías: `C#` `Unity`
 
-### 🔧 [Tool Name](https://github.com/juanvaz25/GestorTareas)
+### 🔧 [Gestor de Tareas](https://github.com/juanvaz25/GestorTareas)
 Gesto de Tareas con capas de accesibilidad. Tecnologías: `ASP.NET Core` `SQLServer` `React` 
 
-### 🌐 [Web App](https://github.com/juanvaz25/MVCodeFirstAlumnos)
-Sistema de gestion de almnos, materias y profesores, con capas de roles y accesibilidad. Tecnologías: `ASP.NET Core` `SQLServer` `API Rest`
+### 🌐 [Sistema Escolar](https://github.com/juanvaz25/MVCodeFirstAlumnos)
+Sistema de gestion de alumnos, materias y profesores, con capas de roles y accesibilidad. Tecnologías: `ASP.NET Core` `SQLServer` `API Rest`
 
 ---
 
@@ -75,7 +75,7 @@ Sistema de gestion de almnos, materias y profesores, con capas de roles y accesi
 - ⚡ Optimizacion de codigo
 - 🤖 Integracion de IA y Agentes
 - 🧪 Testing sobre mis proyectos
-
+- 🎮 MonoGame para desarrollar mis juegos
 ---
 
 <div align="center">
